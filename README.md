@@ -186,6 +186,6 @@ Since I don't want to receive a letter from Humans Since 1982’s lawyers, all d
 | - | - |
 | Lazy | ![sasdasd](/images/clock1.gif) |
 | Fun | ![sasdasd](/images/clock2.gif) |
-| Waves | ![sasdasd](/images/clock3.gif) |
+| Waves | ![sasdasd](/images/Wave.mp4) |
 
 </div>
