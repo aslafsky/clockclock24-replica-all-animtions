@@ -181,11 +181,6 @@ void mqtt_callback(char *topic, byte *payload, unsigned int length)
                     set_clock_animation_mode(RIPPLE);
                     _state_update_pending = true;
                 }
-                else if (mode_value == "GLOBE")
-                {
-                    set_clock_animation_mode(GLOBE);
-                    _state_update_pending = true;
-                }
                 else if (mode_value == "BUBBLE")
                 {
                     set_clock_animation_mode(BUBBLE);
@@ -204,6 +199,11 @@ void mqtt_callback(char *topic, byte *payload, unsigned int length)
                 else if (mode_value == "DIAGONAL")
                 {
                     set_clock_animation_mode(DIAGONAL);
+                    _state_update_pending = true;
+                }
+                else if (mode_value == "CASCADE")
+                {
+                    set_clock_animation_mode(CASCADE);
                     _state_update_pending = true;
                 }
                 else if (mode_value == "CYCLE")
@@ -280,7 +280,7 @@ void publish_discovery_select()
     payload += "\"value_template\":\"{{value_json.mode}}\",";
     payload += "\"qos\":0,";
     payload += "\"optimistic\":false,";
-    payload += "\"options\":[\"LAZY\",\"FUN\",\"WAVES\",\"PROPELLER\",\"ARROW\",\"RIPPLE\",\"GLOBE\",\"BUBBLE\",\"GEAR\",\"SCATTER\",\"DIAGONAL\",\"CYCLE\"],";
+    payload += "\"options\":[\"LAZY\",\"FUN\",\"WAVES\",\"PROPELLER\",\"ARROW\",\"RIPPLE\",\"BUBBLE\",\"GEAR\",\"SCATTER\",\"DIAGONAL\",\"CASCADE\",\"CYCLE\"],";
     payload += "\"device\":{";
     payload += "\"identifiers\":[\"" + hostname + "\"],";
     payload += "\"name\":\"ClockClock24\",";
@@ -337,8 +337,6 @@ const char *get_mode_string(int mode)
         return "ARROW";
     case RIPPLE:
         return "RIPPLE";
-    case GLOBE:
-        return "GLOBE";
     case BUBBLE:
         return "BUBBLE";
     case GEAR:
@@ -347,6 +345,8 @@ const char *get_mode_string(int mode)
         return "SCATTER";
     case DIAGONAL:
         return "DIAGONAL";
+    case CASCADE:
+        return "CASCADE";
     case CYCLE:
         return "CYCLE";
     default:
