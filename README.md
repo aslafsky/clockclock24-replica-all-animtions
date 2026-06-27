@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/b0324fcc-f2b9-4419-aa5d-6dc9558dd269
 # clockclock24-replica-ng
 Please see my [working ClockClock24 repo](https://github.com/aslafsky/clockclock24-replica-ng) for my latest updates and the detailed git history. Modified by [aslafsky](https://github.com/aslafsky). This repo was established to reconnect my fork of the ClockClock 24 project back to [Vallasc's](https://github.com/Vallasc) interpretation. 
 
