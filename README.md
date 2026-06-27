@@ -1,5 +1,17 @@
 
 
+https://github.com/user-attachments/assets/0ec1ce73-cfc3-46a8-9779-9d81aee97525
+
+
+
+https://github.com/user-attachments/assets/c79e1e10-198e-4dd9-a86b-408bb371d993
+
+
+
+https://github.com/user-attachments/assets/64229b80-d3ac-4261-93aa-0e9010a38889
+
+
+
 https://github.com/user-attachments/assets/b6a091ab-cafd-40e1-bc6e-ba218d86559e
 
 
@@ -189,6 +201,7 @@ The case is one piece, it was made by taking a sheet of black MDF and hollowing 
 Since I don't want to receive a letter from Humans Since 1982’s lawyers, all design files and the actual clock assembly are omitted, more [here](https://hackaday.com/2020/07/31/patent-law-and-the-legality-of-making-something-similar/).
 > “Humans Since 1982 have the copyright to works displaying digital time using a grid arrangement of analog clocks…”
 
+
 ---
 
 ## Final result
@@ -197,7 +210,11 @@ Since I don't want to receive a letter from Humans Since 1982’s lawyers, all d
 | Animation type | Result |
 | - | - |
 | Lazy | ![sasdasd](/images/clock1.gif) |
-| Fun | ![sasdasd](/images/Fun.gif) |
+| Fun | 
+
+https://github.com/user-attachments/assets/4c003304-1ac5-4ca7-99d7-6ff1abb2eb8e
+
+|
 | Waves | ![sasdasd](/images/Wave.gif) |
 | Propeller | ![sasdasd](/images/Propeller.gif) |
 | Arrow | ![sasdasd](/images/Arrow.gif) |
