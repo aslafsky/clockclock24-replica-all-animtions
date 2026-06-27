@@ -1,27 +1,5 @@
 
-
-https://github.com/user-attachments/assets/0ec1ce73-cfc3-46a8-9779-9d81aee97525
-
-
-
-https://github.com/user-attachments/assets/c79e1e10-198e-4dd9-a86b-408bb371d993
-
-
-
-https://github.com/user-attachments/assets/64229b80-d3ac-4261-93aa-0e9010a38889
-
-
-
-https://github.com/user-attachments/assets/b6a091ab-cafd-40e1-bc6e-ba218d86559e
-
-
-
-https://github.com/user-attachments/assets/52c375bd-0b5b-46a3-a6f4-a5dd982720d7
-
-
-
-https://github.com/user-attachments/assets/ad5aabd3-a002-42b0-94c9-0567cdf1e874
-
+https://github.com/user-attachments/assets/b0324fcc-f2b9-4419-aa5d-6dc9558dd269
 # clockclock24-replica-ng
 Please see my [working ClockClock24 repo](https://github.com/aslafsky/clockclock24-replica-ng) for my latest updates and the detailed git history. Modified by [aslafsky](https://github.com/aslafsky). This repo was established to reconnect my fork of the ClockClock 24 project back to [Vallasc's](https://github.com/Vallasc) interpretation. 
 
@@ -205,23 +183,25 @@ Since I don't want to receive a letter from Humans Since 1982’s lawyers, all d
 ---
 
 ## Final result
-<div align="center">
 
-| Animation type | Result |
-| - | - |
-| Lazy | ![sasdasd](/images/clock1.gif) |
-| Fun | 
+https://github.com/user-attachments/assets/835c4c44-37d9-4a8c-a408-af7cc6b6dde9
 
-https://github.com/user-attachments/assets/4c003304-1ac5-4ca7-99d7-6ff1abb2eb8e
+https://github.com/user-attachments/assets/8d97395e-3f8a-4908-9ca9-3928f3e401f4
 
-|
-| Waves | ![sasdasd](/images/Wave.gif) |
-| Propeller | ![sasdasd](/images/Propeller.gif) |
-| Arrow | ![sasdasd](/images/Arrow.gif) |
-| Ripple | ![sasdasd](/images/Ripple.gif) |
-| Cascade | ![sasdasd](/images/Cascade.gif) |
-| Bubble | ![sasdasd](/images/Bubble.gif) |
-| Gear | ![sasdasd](/images/Gear.gif) |
-| Scatter | ![sasdasd](/images/Scatter.gif) |
-| Diagonal | ![sasdasd](/images/Diagonal.gif) |
+https://github.com/user-attachments/assets/415a5962-876f-4a4a-8052-c9f70c5bdd86
+
+https://github.com/user-attachments/assets/9a533dc3-90f7-4714-8447-f53f5829d13a
+
+https://github.com/user-attachments/assets/2a0b5116-f189-4ec1-8f51-67dc6aa55ac6
+
+https://github.com/user-attachments/assets/7974be6f-8652-4e31-8951-664f4913cd32
+
+https://github.com/user-attachments/assets/7365eb22-cd8b-4a90-aeb5-516aea6f77fc
+
+https://github.com/user-attachments/assets/922780c6-5505-44c5-a986-f7b5de932492
+
+https://github.com/user-attachments/assets/6f617b33-34e5-42cb-8144-677705e4139c
+
+https://github.com/user-attachments/assets/c1bce12e-06a4-454c-a5af-70ea19aa544e
+
 </div>
